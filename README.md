@@ -26,7 +26,7 @@ This is a simple script, so the only way to use it is by providing the domain yo
 
     bash littlespider.sh domain.com
 
-If you give the proper permissions, you can run with:
+If you give the proper permissions, you can run it with:
 
     ./littlespider.sh domain.com
 
